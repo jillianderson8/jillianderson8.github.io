@@ -53,12 +53,11 @@ If you need them, you can stick any of the [605 icons](http://fontawesome.io/ico
 
 Images play nicely with this template as well. Add diagrams or charts to make your point, and the template will fit them in appropriately.
 
-<img src="/images/issp.png" alt="sample image">
+<a href = "google.ca"
+	<img src="/images/issp.png" alt="sample image">
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Thanks to [Shu Uesengi](https://github.com/chibicode) for inspiring and providing the base for this template with his excellent work, [solo](https://github.com/chibicode).
-
+Google
+	</a>
 <hr>
 
 ##### Footnotes:
