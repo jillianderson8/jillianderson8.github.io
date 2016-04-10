@@ -53,7 +53,7 @@ If you need them, you can stick any of the [605 icons](http://fontawesome.io/ico
 
 Images play nicely with this template as well. Add diagrams or charts to make your point, and the template will fit them in appropriately.
 
-<a href = "google.ca">
+<a href = "https://www.google.ca/">
 	<img src="/images/issp.png" alt="sample image">
 
 Google
