@@ -78,5 +78,5 @@ ggplot(isspgraph, aes(x=mean_religion, y=mean_trust, labels=Country)) +
   annotate("text", x=3, y=2.5, label="Trusting", 
            vjust=-0.5, fontface="bold", size=4) + 
   coord_cartesian(ylim=c(0.4,2.6))
-  ```
+```
 
