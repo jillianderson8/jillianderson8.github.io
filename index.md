@@ -53,9 +53,10 @@ If you need them, you can stick any of the [605 icons](http://fontawesome.io/ico
 
 Images play nicely with this template as well. Add diagrams or charts to make your point, and the template will fit them in appropriately.
 
-	<img src="/images/issp.png" alt="sample image">
+<img src="/images/issp.png" alt="sample image">
 
-[Google]("https://www.google.ca/")
+[Google](https://www.google.ca/)
+
 <hr>
 
 ##### Footnotes:
