@@ -6,7 +6,7 @@ layout: default
 
 Here I can write some stuff. We will see what that might be. 
 
-` 
+```
 issp <- read.dta("/Users/jilliananderson/Documents/University/3B/INTEG375/Deliverables/DV01/GESISReligion.dta")
 
 isspgraph <- issp %>%
@@ -32,6 +32,6 @@ isspgraph <- issp %>%
   # Finding the mean religious level and mean trust level for each country
   group_by(Country) %>%
   summarize(mean_religion = mean(religionnum), mean_trust = mean(trustnum))
-`
+```
 
 <img src="/images/ISSP_Trust.png" alt="sample image">
