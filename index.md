@@ -55,7 +55,7 @@ Images play nicely with this template as well. Add diagrams or charts to make yo
 
 <img src="/images/ISSP_Trust.png" alt="sample image">
 
-[Google](ISSP_trust.md)
+[Google](ISSP_Trust.md)
 
 <hr>
 

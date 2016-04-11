@@ -33,3 +33,5 @@ isspgraph <- issp %>%
   group_by(Country) %>%
   summarize(mean_religion = mean(religionnum), mean_trust = mean(trustnum))
 </code>
+
+<img src="/images/ISSP_Trust.png" alt="sample image">
