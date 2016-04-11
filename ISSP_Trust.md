@@ -34,5 +34,5 @@ isspgraph <- issp %>%
   summarize(mean_religion = mean(religionnum), mean_trust = mean(trustnum))
 ```
 
-<img src="/images/ISSP_Trust.png" alt="image" style = "max-width: 150%" align = "center">
+<img src="/images/ISSP_Trust.png" alt="image" style = "max-width: 200%; margin-left: -50%" align = "center">
 
