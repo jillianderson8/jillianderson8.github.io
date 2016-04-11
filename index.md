@@ -55,18 +55,11 @@ Images play nicely with this template as well. Add diagrams or charts to make yo
 
 <img src="/images/ISSP_Trust.png" alt="sample image">
 
-[Google](ISSP_Trust.html)
+[ISSP Trust vs Religion](ISSP_Trust.html)
 
 <hr>
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
-
+<
 ##### Footnotes:
 
 [^1]: This is a footnote. Click to return.
