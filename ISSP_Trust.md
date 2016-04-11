@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 ---
 
 ## My First Graph, ISSP trust
@@ -34,5 +34,5 @@ isspgraph <- issp %>%
   summarize(mean_religion = mean(religionnum), mean_trust = mean(trustnum))
 ```
 
-<img src="/images/ISSP_Trust.png" alt="sample image", width=200>
+<img src="/images/ISSP_Trust.png" alt="sample image">
 
