@@ -8,7 +8,6 @@ Here I can write some stuff. We will see what that might be.
 
 <code> 
 issp <- read.dta("/Users/jilliananderson/Documents/University/3B/INTEG375/Deliverables/DV01/GESISReligion.dta")
-
 isspgraph <- issp %>%
   select(V5, V63, V13) %>%
   # Renaming Variables
