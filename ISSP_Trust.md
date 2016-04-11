@@ -22,7 +22,7 @@ How I went about wrangling with it (walk through some of my code and talk about 
 Include the code specific to data wrangling here. 
 
 ```
-issp <- read.dta("/Users/jilliananderson/Documents/University/3B/INTEG375/Deliverables/DV01/GESISReligion.dta")
+issp <- read.dta("/Users/...)
 
 isspgraph <- issp %>%
   select(V5, V63, V13) %>%
@@ -52,7 +52,7 @@ isspgraph <- issp %>%
 After the data wrangling, I can go on to talk about the plotting. What design decisions were made and for what purpose. 
 
 ```
-plot <- ggplot(isspgraph, aes(x=mean_religion, y=mean_trust, labels=Country)) +
+ggplot(isspgraph, aes(x=mean_religion, y=mean_trust, labels=Country)) +
   geom_point(color="orange") + 
   geom_text(aes(label=Country), size=2, 
             hjust=-0.1, color = "grey30") +
@@ -80,5 +80,4 @@ plot <- ggplot(isspgraph, aes(x=mean_religion, y=mean_trust, labels=Country)) +
   annotate("text", x=3, y=2.5, label="Trusting", 
            vjust=-0.5, fontface="bold", size=4) + 
   coord_cartesian(ylim=c(0.4,2.6))
-
   ```
