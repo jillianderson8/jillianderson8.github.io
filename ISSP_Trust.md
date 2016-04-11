@@ -2,7 +2,7 @@
 layout: page
 ---
 
-## My First Graph, ISSP trust
+# My First Graph, ISSP trust
 
 Here I can write some stuff. We will see what that might be. 
 
@@ -34,5 +34,5 @@ isspgraph <- issp %>%
   summarize(mean_religion = mean(religionnum), mean_trust = mean(trustnum))
 ```
 
-<img src="/images/ISSP_Trust.png" alt="sample image">
+<img src="/images/ISSP_Trust.png" alt="image">
 
