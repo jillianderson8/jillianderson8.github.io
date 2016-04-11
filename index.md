@@ -59,6 +59,14 @@ Images play nicely with this template as well. Add diagrams or charts to make yo
 
 <hr>
 
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
 ##### Footnotes:
 
 [^1]: This is a footnote. Click to return.
