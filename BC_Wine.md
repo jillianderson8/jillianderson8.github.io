@@ -45,12 +45,12 @@ wine <- liq %>%
   select(Country, Price_per_Litre) %>%
   mutate(Country = paste(substr(Country,1,1),
                          tolower(substr(Country,2,15)),sep="")) %>%
-  mutate(Country = ifelse(Country == "United states o", 
-  							"USA", Country)) %>%
+  mutate(Country = ifelse(Country == "United states o",
+  "USA", Country)) %>%
   mutate(Country = ifelse(Country == "New zealand", 
-  							"New Zealand", Country)) %>%
-  mutate(Country = ifelse(Country == "South africa", 
-  							"South Africa", Country)) %>%
+  "New Zealand", Country)) %>%
+  mutate(Country = ifelse(Country == "South africa",
+  "South Africa", Country)) %>%
   group_by(Country) %>%
   mutate(total = n()) %>%
   filter(total >= 15)
@@ -81,7 +81,7 @@ ggplot(wine, aes(x=reorder(Country,Price_per_Litre, FUN=median),
   annotate("text", label="75th", x=14.3,y=210,size=3) + 
   scale_y_continuous(breaks = c(0,50,100,150,200,250), 
                      labels = c("0", "50", "100", 
-                     			"150", "200", "$250")) + 
+                     "150", "200", "$250")) + 
   theme(axis.title.x=element_blank(), 
         axis.title.y=element_blank(),
         axis.text.x =element_text(size=10),
