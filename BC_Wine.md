@@ -25,7 +25,7 @@ After I found the price per litre of wine, I began comparing measures of central
 
 Thus, I decided to create a boxplot to present this data. I soon realized there were multiple countries from which only a few wines originated from. I chose to exclude those countries which supplied fewer than 15 wines to the BC Liquor Stores. This was done in an effort to ensure the distributions were representative of wine industries in these nations, rather than a small group of wines. 
 
-When making my boxplot, I chose to exclude the whiskers from the diagram. This was done to ensure I was able to communicate with my audience. As Stephen Few mentions, relatively few members of the public have been taught to read box plots, and thus an effort should be made to ensure their clarity and simplicity[^1]. To address this further, I have chosen to include a boxplot guide with my visualization. This helps ensure readers understand what I have presented, as may serve to teach readers who are unfamiliar with boxplots. Other design decisions, such as removing horizontal gridlines and unnecessary axis titles, have been done in an effort to minimize non-data ink.
+When making my boxplot, I chose to exclude the whiskers from the diagram. This was done to ensure I was able to communicate with my audience. As Stephen Few mentions, relatively few members of the public have been taught to read box plots, and thus an effort should be made to ensure their clarity and simplicity[@Few:2012:SMN:2385879]. To address this further, I have chosen to include a boxplot guide with my visualization. This helps ensure readers understand what I have presented, as may serve to teach readers who are unfamiliar with boxplots. Other design decisions, such as removing horizontal gridlines and unnecessary axis titles, have been done in an effort to minimize non-data ink.
 
 
 ``` {R}
@@ -81,7 +81,7 @@ ggplot(wine, aes(x=reorder(Country,Price_per_Litre, FUN=median),
 <
 ##### Footnotes:
 
-[^1]: This is a footnote. Click to return.
+[^1]: . Click to return.
 
 [^2]: Here is another.
 
