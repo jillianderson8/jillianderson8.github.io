@@ -1,5 +1,7 @@
 ---
 layout: default
+pandoc_args: --bibliography=/Users/jilliananderson/Documents/University/3B/INTEG375/Lectures/Git_Pages/jillianderson8.github.io/references.bib
+
 ---
 
 # BC Wine
