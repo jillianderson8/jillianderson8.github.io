@@ -39,6 +39,22 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 [Saskatchewan Elections](SK_Elections.html)
 <img src="/images/SK_Elections.png" alt="sample image">
 
+[Improved Article Visualization](Article_Review.html)
+<img src="/images/Article_Review.png" alt="sample image">
+
+[Marvel Comic Overlap](Marvel.html)
+<img src="/images/Marvel.png" alt="sample image">
+
+[Improved Housing Market Visualization](Public_Review.html)
+<img src="/images/Public_Review.png" alt="sample image">
+
+[El Salvador Foreign Aid](FA_El_Salvador.html)
+<img src="/images/FA_El_Salvador.png" alt="sample image">
+
+[The Importance of Bribes](ISSP_Bribes.html)
+<img src="/images/ISSP_Bribes.png" alt="sample image">
+
+
 <hr>
 
 <
