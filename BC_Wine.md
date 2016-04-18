@@ -5,15 +5,22 @@ layout: default
 <img src="/images/BC_Wine.png" alt="image" style = "max-width: 150%; margin-left: -25%" align = "center">
 
 ### The Story
+The above graph shows the difference in price
+
+This graph uses a data set from British Columbia’s open data portal and contains the prices of products sold at BC Liquor Stores. I have focused on the price of wine at these stores, summarizing the data by country of origin for each wine. I have normalized the prices to indicate the price for one litre of a product.   
+
+From this data, I think there may be an interesting discussion to be had surrounding the impact of a Country's "Brand" on the price its wine will sell for. I think it would be interesting to see characteristics, if any, lead to French wine being significantly more expensive then any other wine.   
+
+When first looking at the prices, the mean price for French wine was much higher than any other wine, as I had anticipated. After digging around in the data a bit more, I found that many of the means I was getting were unable to accurately depict the distribution. So I chose to use a box plot instead. As we have discussed before, I chose not to include whiskers, as most people are unsure how to read them. Further, I provided a key at the top.   
+
+
 I should also talk about the problem I am addressing here. What needs to be known? 
 
 The story can go here. I should explain what I am trying to tell. How I have highlighted it with this graph. And then provide one or two discussion topics and questions for this graph. 
 
-### The Learning
-Here I should discuss what I have learned from this graph. Or what other learning this graph demonstrates.
 
 ### The Process
-This graph was produced using the "BC Liquor Store Product Price List"[^1] made available on [opendatabc.ca](https://www.opendatabc.ca/). The dataset I used can be found [here](https://www.opendatabc.ca/dataset/bc-liquor-store-product-price-list-current-prices). This dataset contains the prices of 5,563 products sold in BC Liquor Stores, as well as the characteristics of the products. These characteristics included category (ie. Wine, Spirit, Beer), alcohol content, and origin country. 
+This graph was produced using the "BC Liquor Store Product Price List"[^1] made available on [opendatabc.ca](https://www.opendatabc.ca/). This dataset contains the prices of 5,563 products sold in BC Liquor Stores, as well as the characteristics of the products. These characteristics included category (ie. Wine, Spirit, Beer), alcohol content, and origin country. 
 
 Once I had acquired this dataset, I was able to begin exploring it. I soon found this dataset listed over 3,500 wines, originating from a wide variety of countries. I was intrigued by this and decided to compare the prices of wine based on their origin country. 
 
@@ -82,6 +89,9 @@ ggplot(wine, aes(x=reorder(Country,Price_per_Litre, FUN=median),
         panel.grid.major.y=element_blank())
 
 ```
+### The Learning
+This graph was my first attempt at creating a boxplot. While I am happy with the final result, I encountered a few unexpected bumps along the way. Initially, I had hoped to include the full range of wine prices, excluding outliers, for each country. This was my goal, as I felt readers were much more likely to understand minimum and maximum, rather than percentiles. However, these are typically encoded using whiskers, a feature I was hoping to remove. Despite looking for alternatives, I was unable to find a way to turn whiskers into extensions of the box. Instead, I opted to include a guide for how to read my boxplots. This helps ensure readers are aware of the statistics I am displaying. 
+
 
 ##### Footnotes:
 [^1]: Open Data BC. (u.d.). BC Liquor Store Price List [Data set]. Retrieved March 26, 2016 from: https://www.opendatabc.ca/dataset/bc-liquor-store-product-price-list-current-prices
