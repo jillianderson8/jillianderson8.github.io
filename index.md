@@ -72,14 +72,18 @@ All these visualizations were produced in R, using libraries such as ggplot2[^1]
 
 ##### Footnotes:
 
-[^1]: This is a footnote. Click to return.
+[^1]: Wickham, H. (2009). ggplot2: Elegant Graphics for Data Analysis. Springer-Verlag New York. Retrieved from http://had.co.nz/ggplot2/book
 
-[^2]: Here is another.
 
-[^3]: This is a footnote. Click to return.
+[^2]: Wickham, H., & Francois, R. (2015). dplyr: A Grammar of Data Manipulation. Retrieved from https://CRAN.R-project.org/package=dplyr
 
-[^4]: Here is another.
 
-[^5]: This is a footnote. Click to return.
+[^3]: Csardi, G., & Nepusz, T. (2006). The igraph software package for complex network research. InterJournal, Complex Systems, 1695.
 
-[^6]: Here is another.
+[^4]: Wickham, H. (2007). Reshaping Data with the reshape Package. Journal of Statistical Software, 21(12), 1–20.
+
+[^5]: R Core Team. (2015). foreign: Read Data Stored by Minitab, S, SAS, SPSS, Stata, Systat, Weka, dBase, ... Retrieved from https://CRAN.R-project.org/package=foreign
+
+[^6]: Few, S. (2012). Show Me the Numbers: Designing Tables and Graphs to Enlighten (2nd ed.). USA: Analytics Press.
+
+
