@@ -33,9 +33,9 @@ library(foreign)
 library(dplyr)
 library(ggplot2)
 
-whospending <- read.csv("/Users/jilliananderson/Documents/University/3B/INTEG375/Portfolio/xmart_spending.csv")
+whospending <- read.csv("/Users/.../xmart_spending.csv")
 
-wholife <- read.csv("/Users/jilliananderson/Documents/University/3B/INTEG375/Portfolio/xmart_life.csv") 
+wholife <- read.csv("/Users/.../xmart_life.csv") 
 
 spending <- whospending %>%
   rename(Spending = X2013)
