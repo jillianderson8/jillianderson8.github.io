@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="/images/FAO_Crops.png" alt="image" style = "max-width: 200%; margin-left: -50%" align = "center">
+<img src="/images/FAO_Crops.png" alt="image" style = "max-width: 150%; margin-left: -25%" align = "center">
 
 ### The Story
 Pulse crops are often considered an important element of a healthy crop rotation in Canada. With our relatively short growing season, Canadian producers are limited in the types of crops which they can produce. In regions of Canada such as the prairie provinces, this means there are few crops which are profitable for farmers to produce. This can lead to shortening of crop rotation in an attempt to increase profits, however this is generally considered as a poor practice as it can easily deplete the soil of important nutrients as well as exacerbate the spread of disease through crop populations. 
