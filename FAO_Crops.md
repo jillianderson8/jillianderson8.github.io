@@ -92,7 +92,7 @@ ggplot(area, aes(x=Year, y=Area, colour=Item)) +
 <hr>
 
 #### Footnotes
-[^1] Few, S. (2012). Show Me the Numbers: Designing Tables and Graphs to Enlighten (2nd ed.). USA: Analytics Press.
-[^2] Bekkering, E. (2014). Pulses in Canada. Ottawa: Statistics Canada. Retrieved from http://www.statcan.gc.ca/pub/96-325-x/2014001/mi-rs-eng.htm
-[^3] Food and Agriculture Organization of the United Nations. (2015). Crop Production. [Dataset]. Retrieved from http://faostat3.fao.org/download/Q/QC/E
-[^4] Wickham, Hadley. 2014. “Tidy Data.” Journal of Statistical Software.
+[^1]: Few, S. (2012). Show Me the Numbers: Designing Tables and Graphs to Enlighten (2nd ed.). USA: Analytics Press.
+[^2]: Bekkering, E. (2014). Pulses in Canada. Ottawa: Statistics Canada. Retrieved from http://www.statcan.gc.ca/pub/96-325-x/2014001/mi-rs-eng.htm
+[^3]: Food and Agriculture Organization of the United Nations. (2015). Crop Production. [Dataset]. Retrieved from http://faostat3.fao.org/download/Q/QC/E
+[^4]: Wickham, Hadley. 2014. “Tidy Data.” Journal of Statistical Software.
