@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="/images/ISSP_Trust.png" alt="image" style = "max-width: 200%; margin-left: -50%" align = "center">
+<img src="/images/ISSP_Trust.png" alt="image" style = "max-width: 150%; margin-left: -25%" align = "center">
 
 ### The Story
 Examining the similarities and differences between countries can extremely insightful. These help shape our cultures, national identities, but may also be indicative of shared experiences or human nature. As shown in the graph above, countries differ in their willingness to trust others, as well as their religiousness. However, we should also note, that no country is extremely trustworthy, nor is any country extremely non-religious. This may indicate a shared global tendency away from these extremes. We can also see many countries fall close to the axes, indicating their moderate stances on at least one of these topics. 
