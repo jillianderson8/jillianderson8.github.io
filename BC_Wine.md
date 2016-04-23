@@ -20,7 +20,7 @@ As this was my first box-plot, I am very happy with how it turned out. I believe
 One thing I would try to change about this graph is to have the boxes represent a traditional three number summary (minimum, median, maximum), rather than the interquartile range. I was unable to find a way to do this within ggplot2, but would try to dig a little deeper into how I may implement this in the future.
 
 ### The Process
-This graph was produced using the "BC Liquor Store Product Price List"[^2] made available on [opendatabc.ca](https://www.opendatabc.ca/). This dataset contains the prices of 5,563 products sold in BC Liquor Stores, as well as the characteristics of the products. These characteristics included category (ie. Wine, Spirit, Beer), alcohol content, and origin country. 
+This graph was produced using the "BC Liquor Store Product Price List"[^2] made available on [ opendatabc.ca](https://www.opendatabc.ca/). This dataset contains the prices of 5,563 products sold in BC Liquor Stores, as well as the characteristics of the products. These characteristics included category (ie. Wine, Spirit, Beer), alcohol content, and origin country. 
 
 Once I had acquired this dataset, I was able to begin exploring it. I soon found this dataset listed over 3,500 wines, originating from a wide variety of countries. I was intrigued by this and decided to compare the prices of wine based on their origin country. 
 
