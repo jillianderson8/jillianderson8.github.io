@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-<img src="/images/Child_Poverty.png" alt="image" style = "max-width: 200%; margin-left: -50%" align = "center">
+<img src="/images/Airline_Delays.png" alt="image" style = "max-width: 150%; margin-left: -25%" align = "center">
 
 ### The Story
 One of the key measures of airline performance is whether they are able to get their passengers to their destination on time. Many airline passengers, especially those with connecting flights, can find it very iterating when a flight is delayed, especially if it more than 15 minutes. Inversely, to arrive at a destination early is rarely complained over, as it means someone can put the travel behind and focus on their destination. If you are a traveller who is particularly familiar with these feelings, perhaps the above visualization can provide guidance when booking flights. For each day of the week, we have calculated the average arrival time (in reference to the schedule) of major carriers in the United States. The best and worst performing airlines for each day are shown above. From this graph we can see scheduling tight connecting flights with Spirit Airlines on a friday may not be a great choice (unless you count one the outgoing plane to leave late). 
