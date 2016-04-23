@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# ISSP Religion vs Trust
-
 <img src="/images/ISSP_Trust.png" alt="image" style = "max-width: 200%; margin-left: -50%" align = "center">
 
 ### The Story
