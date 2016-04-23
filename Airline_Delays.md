@@ -98,5 +98,4 @@ ggplot(weekday, aes(x=DAY_OF_WEEK,
 <hr>
 
 #### Footnotes
-[^1]: Bureau of Transportation Statistics. (2016). On-Time Performance [Dataset]. Retrieved from:
-http://www.transtats.bts.gov/DL_SelectFields.asp?Table_ID=236&DB_Short_Name=On-Time. 
+[^1]: Bureau of Transportation Statistics. (2016). On-Time Performance [Dataset]. Retrieved from: http://www.transtats.bts.gov/DL_SelectFields.asp?Table_ID=236&DB_Short_Name=On-Time. 
