@@ -95,7 +95,7 @@ ggplot(isspgraph, aes(x=mean_religion, y=mean_trust, labels=Country)) +
   coord_cartesian(ylim=c(0.4,2.6))
 ```
 
-hr
+<hr>
 
 #### Footnotes
 [^1]: International Social Survey Programme. (2008). Social Inequality IV [Dataset]. Retrieved from: http://zacat.gesis.org/webview/index.jsp?object=http://zacat.gesis.org/obj/fStudy/ZA5400
