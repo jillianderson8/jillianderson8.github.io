@@ -37,7 +37,7 @@ library(foreign)
 library(dplyr)
 library(ggplot2)
 
-sk_elections <- read.csv("/Users/jilliananderson/Documents/University/3B/INTEG375/Portfolio/Plots/SK_Elections/SK_Elections.csv")
+sk_elections <- read.csv("/Users/.../SK_Elections.csv")
 
 winner_perc <- sk_elections %>%
   mutate(percent = Winner.Seats/Seats*100)
