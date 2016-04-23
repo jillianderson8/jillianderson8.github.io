@@ -67,6 +67,6 @@ ggplot(faelswar, aes(x=year, y=total, colour = donor)) +
 <hr>
 
 #### Footnotes
-[^1]: Anderson, J., Clubine, A., MacGowan, E., & Persofsky, B. (2016, March 8). March 07 Data Challenge. INTEG 375. 
 
+[^1]: Anderson, J., Clubine, A., MacGowan, E., & Persofsky, B. (2016, March 8). March 07 Data Challenge. INTEG 375. 
 [^2]: Tierney, Michael J., Daniel L. Nielson, Darren G. Hawkins, J. Timmons Roberts, Michael G. Findley, Ryan M. Powers, Bradley Parks, Sven E. Wilson, and Robert L. Hicks. 2011. More Dollars than Sense: Refining Our Knowledge of Development Finance Using AidData. World Development 39 (11): 1891-1906.
