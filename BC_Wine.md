@@ -98,4 +98,4 @@ ggplot(wine, aes(x=reorder(Country,Price_per_Litre, FUN=median),
 ##### Footnotes:
 [^1]: Mercer, C. (2015, June 14). Decanter World Wine Awards 2015: Results revealed [Blog Post]. Retrieved from http://www.decanter.com/decanter-world-wine-awards/dwwa-results-highlights/decanter-world-wine-awards-2015-results-revealed-262881/
 [^2]: Open Data BC. (u.d.). BC Liquor Store Price List [Data set]. Retrieved March 26, 2016 from: https://www.opendatabc.ca/dataset/bc-liquor-store-product-price-list-current-prices
-
+[^3]: Few, S. (2012). Show Me the Numbers: Designing Tables and Graphs to Enlighten (2nd ed.). USA: Analytics Press.

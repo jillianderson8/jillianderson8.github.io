@@ -2,7 +2,6 @@
 layout: default
 ---
 
-# Child Poverty
 
 <img src="/images/Child_Poverty.png" alt="image" style = "max-width: 150%; margin-left: -15%" align = "center">
 
