@@ -4,7 +4,7 @@ layout: default
 
 <img src="/images/Article_Review_1.png" alt="image" style = "max-width: 150%; margin-left: -25%" align = "center">
 
-<img src="/images/Article_Review_1.png" alt="image" style = "max-width: 150%; margin-left: -25%" align = "center">
+<img src="/images/Article_Review_2.png" alt="image" style = "max-width: 150%; margin-left: -25%" align = "center">
 
 ### The Story[^1]
 This graph has been created as an improvement over Figure 2 A found on page 1093 of Cotter et. al’s article title on the use of hematocrit as a surrogate end point for epoetin-treated hemodialysis patients. This article was published in the Journal of Clinical Epidemiology, and thus the target audience for the visualization included researchers in the field as well as medical practitioners. Our visualizations show two important findings from the article. As shown in the first graph, there is a trend for mortality rates to decrease, as hematocrit levels increase, especially when patients are receiving more than 21,692 units of epoetin per week. Further, as shown in our second plot, as epotein dose increases, mortality increases. This is particularly apparent in the lowest hematocrit range. 
