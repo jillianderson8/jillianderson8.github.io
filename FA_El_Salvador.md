@@ -4,7 +4,7 @@ layout: default
 
 <img src="/images/FA_El_Salvador.png" alt="image" style = "max-width: 150%; margin-left: -25%" align = "center">
 
-### The Story
+### The Story [^1]
 Between the years 1980 and 1992, El Salvador was engaged in a civil war. If we examine the donations from that time, and the surrounding years, we notice most of the aid received by El Salvador during this time was from the United States. This aligns with historical fact, where the United States siding with and financially backing the El Salvador government during the civil war. This graph shows the strong investment, of 5 billion dollars provided by the United States. Other top entities contributed a combined total of almost 2 billion dollars during the civil war. The overwhelming amount of funding from the United States during this time accounted for over 70% of foreign aid during the civil war. From this, one can interpret the amount of support the government of El Salvador received, and how this may influenced their victory in the war. 
 
 
