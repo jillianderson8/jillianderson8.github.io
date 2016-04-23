@@ -5,7 +5,7 @@ layout: default
 <img src="/images/BC_Wine.png" alt="image" style = "max-width: 150%; margin-left: -25%" align = "center">
 
 ### The Story
-The above graph shows the prices of wine in dependent on a the wine’s country of origin according to data from[opendatabc.ca](https://www.opendatabc.ca/,. These prices are for wines sold in British Columbia Liquor Stores. As we can see, French wines tend to be much more expensive then the wines of any another country, with a median price exceeding $100 per litre. 
+The above graph shows the prices of wine in dependent on a the wine’s country of origin according to data from[opendatabc.ca](https://www.opendatabc.ca/). These prices are for wines sold in British Columbia Liquor Stores. As we can see, French wines tend to be much more expensive then the wines of any another country, with a median price exceeding $100 per litre. 
 
 This raises questions regarding the impact of a country’s “brand” on the price of its wine. Are we willing to pay so much more for French wine, simply because it is French? Or perhaps there are other characteristics which make French wine significantly more expensive than any other wine. This is especially interesting considering wines from countries such as Australia, South Africa, and Spain have recently received international awards[^1]. 
 
