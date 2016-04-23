@@ -35,7 +35,7 @@ This indicates a change in how I developed visualizations. Instead of simply pre
 ```
 library(dplyr)
 library(ggplot2)
-pov <- read.csv("/Users/jilliananderson/Documents/University/3B/INTEG375/Portfolio/Poverty\ Rates/Poverty/Sheet\ 1-Status.csv")
+pov <- read.csv("/Users/...")
 
 pov$Status <- factor(pov$Status, levels = c("Non-Aboriginal", "Aboriginal"))
 
