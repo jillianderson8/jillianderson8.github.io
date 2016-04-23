@@ -96,4 +96,4 @@ ggplot(isspgraph, aes(x=mean_religion, y=mean_trust, labels=Country)) +
 <hr>
 
 #### Footnotes   
-[^1]: International Social Survey Programme. (2008). Social Inequality IV [Dataset]. Retrieved from: http://zacat.gesis.org/webview/index.jsp?object=http://zacat.gesis.org/obj/fStudy/ZA5400
+[^1]: International Social Survey Programme. (2008). Religion III [Dataset]. Retrieved from: http://zacat.gesis.org/webview/index.jsp?object=http://zacat.gesis.org/obj/fStudy/ZA4950
