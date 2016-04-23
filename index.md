@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Throughout my participation in INTEG 375, a course on Data Visualization, at the University of Waterloo, I gained various insight in creating informative and thought-provoking visualizations. This portfolio highlights the work that best represents the knowledge and experience I have gained from this course. <br/><br/>-Jillian Anderson
+## Throughout my participation in INTEG 375, a course on Data Visualization, at the University of Waterloo, I gained various insight in creating informative and thought-provoking visualizations. This portfolio highlights the work that best represents the knowledge and experience I have gained from this course. <br/><br/>- Jillian Anderson
 
 
 ### The Visualizations
