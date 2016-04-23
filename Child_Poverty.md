@@ -4,7 +4,7 @@ layout: default
 
 # Child Poverty
 
-<img src="/images/Child_Poverty.png" alt="image" style = "max-width: 150%; margin-left: -25%" align = "center">
+<img src="/images/Child_Poverty.png" alt="image" style = "max-width: 150%; margin-left: -15%" align = "center">
 
 ### The Story
 Despite what many would like to believe, child poverty is an issue in Canada. Hundreds of thousands of Canadian children live in low income households[^1]. As shown in the graph above, these statistics become even more concerning when we consider the proportion of aboriginal children who are members of low income families. In Saskatchewan and Manitoba, there is a greater than 50% chance any aboriginal child is a member of a low income family. 
