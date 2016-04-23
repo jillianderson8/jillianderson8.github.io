@@ -4,7 +4,7 @@ layout: default
 
 <img src="/images/ISSP_Bribes.png" alt="image" style = "max-width: 150%; margin-left: -25%" align = "center">
 
-### The 
+### The Story
 How important is giving bribes to “getting ahead”? This was the question asked of over 55,000 people from 40 different countries in the International Social Survey Programmes 2009 survey on social inequality. Responses varied, with answers ranging from “Essential” to “Not important at all”. Nations such as New Zealand, Sweden, and Denmark had fewer than 5% agree it was important. In contrast, over 50% of respondents from Hungary stated they believed bribes were important to getting ahead. Might a nation’s perceived importance of bribes be a strong indicator of corrupt officials and governments? Another interesting observation from this chart, is that eight of the ten countries who most agree bribes are important are Eastern European nations, many of which were once part of the Soviet Union. This aligns well with the fact that past events in these regions (as recent as 2015) have indicated high levels of corruption dominate these once communist nations. 
 
 
