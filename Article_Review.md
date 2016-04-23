@@ -82,8 +82,6 @@ ggplot(artp, aes(x=Quartile,
                               "Greater than 21,692")) +
   theme(plot.title = element_text(face="bold", size=20))
 
-ggsave("Article_Review_1.png", device = "png", path = "/Users/jilliananderson/Documents/University/3B/INTEG375/Portfolio/Plots/Article_Review")
-
 
 # *************
 # Vis 2 Epoetin
