@@ -37,7 +37,7 @@ library(dplyr)
 library(ggplot2)
 library(reshape2)
 
-fa <- read.csv("/Users/jilliananderson/Documents/University/3B/INTEG375/Portfolio/Plots/FA_Canada/aiddata2-1_thin.csv")
+fa <- read.csv("/Users/.../aiddata2-1_thin.csv")
 
 faworld<- fa %>%
   filter(year>=1980 & year<=2010) %>%
