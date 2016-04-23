@@ -15,7 +15,7 @@ One aspect of this graph I am not satisfied with, is the method which was used t
 
 
 ### The Process
-The data for this visualization was downloaded from [aiddata.org](http://aiddata.org/country-level-research-datasets)[^2]. I downloaded the “Thin” version of this dataset, as it was sufficient for telling an interesting story. 
+The data for this visualization was downloaded from [aiddata.org](http://aiddata.org/country-level-research-datasets) [^2]. I downloaded the “Thin” version of this dataset, as it was sufficient for telling an interesting story. 
 
 Once my group and I had obtained this dataset, we began to cut down on the data, based on our interests. We chose to focus on foreign aid received by El Salvador. After this, we began a constant reiteration process, during which we chose to focus on donations made by the top 10 donors during the civil war. Later, we chose to include years immediately preceding and following the civil war, to provide context for our discussion. We also chose to summarize the total donation dollars in millions, rather than in their original values (ie. 2000000 became 2).  
 
@@ -68,4 +68,5 @@ ggplot(faelswar, aes(x=year, y=total, colour = donor)) +
 
 #### Footnotes
 [^1]: Anderson, J., Clubine, A., MacGowan, E., & Persofsky, B. (2016, March 8). March 07 Data Challenge. INTEG 375. 
+
 [^2]: Tierney, Michael J., Daniel L. Nielson, Darren G. Hawkins, J. Timmons Roberts, Michael G. Findley, Ryan M. Powers, Bradley Parks, Sven E. Wilson, and Robert L. Hicks. 2011. More Dollars than Sense: Refining Our Knowledge of Development Finance Using AidData. World Development 39 (11): 1891-1906.
